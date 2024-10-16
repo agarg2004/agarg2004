@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarg2004&label=Profile%20views&color=0e75b6&style=flat" alt="agarg2004" /> </p>
-<img align="center" width="400" src="[https://th.bing.com/th/id/OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj?rs=1&pid=ImgDetMain](https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif)"
+<img align="center" width="400" src="https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"
 
 - 🔭 I’m currently working at **Samsung R&D India as a research intern**
 
