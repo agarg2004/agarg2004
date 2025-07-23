@@ -11,7 +11,7 @@
 - 🧠 Final-year undergraduate student in **Computer Engineering**
 - 👨‍💻 Focused on building impactful projects in **ML, Full-Stack Web Development**, and **Computer Vision**
 - 💡 Actively contributing to open-source, research, and innovation-driven hackathons
-- 🧪 Research Experience in **Lie detection, CNN Hyperparameter Optimization**
+- 🧪 Research Experience in **Lie detection, CNN Hyperparameter Optimization, Image quality parameters calculation**
 - 📫 Reach me at **anirudhgarg.work@gmail.com**
 
 ---
